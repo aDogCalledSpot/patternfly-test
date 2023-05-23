@@ -878,14 +878,9 @@ dependencies = [
 name = "trunk-template"
 version = "0.1.0"
 dependencies = [
- "gloo",
- "log",
  "patternfly-yew",
- "wasm-bindgen",
  "wasm-logger",
- "web-sys",
  "yew",
- "yew-nested-router",
 ]
 
 [[package]]

@@ -13,9 +13,4 @@ categories = ["gui", "wasm", "web-programming"]
 [dependencies]
 yew = { version="0.20", features=["csr"] }
 patternfly-yew = { git = "https://github.com/ctron/patternfly-yew", rev = "b02ab41cf66e2be757f0247b5934c2f33fd797eb", features=["tree"] }
-gloo = "0.8"
-wasm-bindgen = "0.2"
-log = "0.4"
-web-sys = "0.3"
 wasm-logger = "0.2"
-yew-nested-router = "0.2"
