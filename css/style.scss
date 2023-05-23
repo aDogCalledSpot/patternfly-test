@@ -6,3 +6,7 @@ $fa-font-path: "webfonts";
 // PatternFly styles
 @import "../node_modules/@patternfly/patternfly/patternfly.scss";
 @import "../node_modules/@patternfly/patternfly/patternfly-addons.scss";
+
+.pf-c-background-image {
+    --pf-c-background-image--BackgroundImage: url("../assets/background.jpg");
+}

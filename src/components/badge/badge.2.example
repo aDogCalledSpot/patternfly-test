@@ -1,3 +1,0 @@
-html!{
-    <Badge read=true>{"123"}</Badge>
-}
